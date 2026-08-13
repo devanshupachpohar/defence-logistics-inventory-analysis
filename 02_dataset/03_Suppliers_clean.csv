@@ -1,0 +1,11 @@
+﻿Supplier_ID,Supplier_Name,City,State,Supplier_Rating
+S001,Bharat Defence Ltd,Pune,Maharashtra,4.8
+S002,Alpha Logistics Pvt Ltd,Delhi,Delhi,4.5
+S003,Secure Military Equipments,Bengaluru,Karnataka,4.7
+S004,National Armour Supplies,Hyderabad,Telangana,4.6
+S005,Eagle Defence Systems,Chennai,Tamil Nadu,4.9
+S006,Frontier Tactical Gear,Jaipur,Rajasthan,4.3
+S007,Sentinel Technologies,Lucknow,Uttar Pradesh,4.4
+S008,Himalayan Supply Chain,Chandigarh,Chandigarh,4.2
+S009,Western Defence Traders,Ahmedabad,Gujarat,4.6
+S010,Eastern Logistics Corporation,Kolkata,West Bengal,4.5
